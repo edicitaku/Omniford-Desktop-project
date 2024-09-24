@@ -44,8 +44,8 @@ Gluten-free
 Lactose-free
 Keto
 Paleo
-Low FODMAP
 Kid-friendly
+Low FODMAP
 
 ### Sample meals
 
@@ -126,3 +126,20 @@ Careers
 Recipe directory
 Help center
 Privacy & terms
+
+
+######
+
+## Sections
+
+- Navigation
+- Hero
+- Featured in
+- How it workes
+- Diets
+- Meals (and list of diets)
+- Testimonials + gallery
+- Pricing + features 
+- Features
+- CTA
+- Footer
